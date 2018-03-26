@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("hello Unniverse");
+    printf("hello Tem");
+    printf("%d",10+10);
 }
